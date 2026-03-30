@@ -1,0 +1,21 @@
+<svg width="900" height="110" viewBox="0 0 900 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="180" y1="55" x2="720" y2="55" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <text
+    x="450"
+    y="69"
+    text-anchor="middle"
+    font-family="'IBM Plex Mono', monospace"
+    font-size="32"
+    font-weight="600"
+    letter-spacing="0.2"
+    fill="url(#textGradient)">
+    BitXano Portfolio
+  </text>
+</svg>
