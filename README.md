@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://bitxano.xyz">
-    <img src="./bitxano.svg" alt="BitXano Portfolio" width="560" />
+    <img src="./bitxano.svg" alt="BitXano Portfolio" width="1120" />
   </a>
 </p>
