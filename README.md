@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58A6FF,100:0d1117&height=2&section=header&text=" width="80%" />
 </p>
-s
 
 - Contacts
   - Telegram @bitxano
