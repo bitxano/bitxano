@@ -5,9 +5,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58A6FF,100:0d1117&height=2&section=header&text=" width="80%" />
 </p>
+s
 
+- Contacts
+  - Telegram @bitxano
+  - Discord @bitxano.xyz
+
+- CEO - Goat Pay
+  - https://goatpay.com.br 
+   
+<!--
 <p align="center">
   <a href="https://bitxano.xyz">
     <img src="./bitxano.svg" alt="BitXano Portfolio" width="1120" />
   </a>
 </p>
+-->
